@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tufail Ahmed Khan</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Exploring Python & Next.js | UI/UX Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | Exploring Python & Next.js | DSA Learner</h3>
 
 ---
 
@@ -7,6 +7,14 @@ I'm a passionate Full-Stack Web Developer with a strong focus on building respon
 🎓 Currently pursuing a **Bachelor’s degree in Computer Engineering with Honours in Data Science** at SIES Graduate School of Technology.  
 💡 Skilled in the MERN stack and currently exploring **Python** and **Next.js** to broaden my technical capabilities.  
 ✨ Dedicated to creating seamless user experiences and writing clean, maintainable code.
+
+---
+
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -73,7 +81,7 @@ I'm a passionate Full-Stack Web Developer with a strong focus on building respon
   <a href="https://www.linkedin.com/in/tufail-ahmed-khan-1b01032a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tufailahmed376@gmail.com">
+  <a href="mailto:tufailahmedkhan376@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
