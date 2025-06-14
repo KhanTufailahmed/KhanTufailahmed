@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tufail Ahmed Sirajuddin Khan</h1>
+<h1 align="center">Hi 👋, I'm Tufail Ahmed Khan</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | Exploring Python & Next.js | UI/UX Enthusiast</h3>
 
 ---
