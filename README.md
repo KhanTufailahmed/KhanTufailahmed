@@ -88,10 +88,4 @@ I'm a passionate Full-Stack Web Developer with a strong focus on building respon
   </a>
 </p>
 
----
-### 📈 Visitor Count
-
-<p align="center">
-  <img src="https://hits.dwyl.com/KhanTufailahmed/YourRepo.svg?style=flat-square" alt="Visitor Count" />
-</p>
 
